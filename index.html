@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex">
+<title>Ideia Pronta · links</title>
+<link rel="stylesheet" href="estilo.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<header>
+  <h1>Ideia Pronta</h1>
+  <p>Os materiais de cada ideia dos vídeos.</p>
+  <label class="busca"><span class="sr">Buscar</span>
+    <input id="q" type="search" placeholder="Buscar ideia ou material (ex.: café, laser)" autocomplete="off" spellcheck="false" maxlength="60">
+  </label>
+</header>
+<main id="lista" aria-live="polite"></main>
+<p id="vazio" hidden>Nada encontrado. Tente outra palavra.</p>
+<footer>
+  <p>🔗 Links de afiliado do Mercado Livre: você paga o mesmo preço e o canal recebe uma pequena comissão.</p>
+  <p>Esta página não usa cookies, não coleta dados e não tem rastreadores.</p>
+</footer>
+<script src="dados.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
