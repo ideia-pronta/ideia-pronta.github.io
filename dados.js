@@ -20,6 +20,11 @@ window.IDEIAS = [
     "🏋️",
     "Estação de musculação Gallant Elite",
     "https://meli.la/139Li3r"
+   ],
+   [
+    "🧩",
+    "Tatames de EVA (kit 16 × 50 cm = 2 x 2 m)",
+    "https://meli.la/31bsJnx"
    ]
   ],
   "img": "img/ideia04.webp"
