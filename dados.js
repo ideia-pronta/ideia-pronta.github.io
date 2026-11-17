@@ -1,5 +1,28 @@
 window.IDEIAS = [
  {
+  "n": 4,
+  "titulo": "Academia completa em casa",
+  "sub": "estação de musculação num canto de 2 x 2 m",
+  "video": "https://youtube.com/shorts/7KwjLHV0D2k",
+  "tags": [
+   "academia",
+   "musculação",
+   "treino",
+   "exercício",
+   "casa",
+   "saúde",
+   "estação"
+  ],
+  "links": [
+   [
+    "🏋️",
+    "Estação de musculação Gallant Elite",
+    "https://meli.la/139Li3r"
+   ]
+  ],
+  "img": "img/ideia04.webp"
+ },
+ {
   "n": 2,
   "titulo": "Topo de bolo e lembrancinha",
   "sub": "em MDF, cortados a laser",
