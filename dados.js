@@ -2,8 +2,8 @@ window.IDEIAS = [
  {
   "n": 4,
   "titulo": "Academia completa em casa",
-  "sub": "estação de musculação num canto de 2 x 2 m",
-  "video": "https://youtube.com/shorts/7KwjLHV0D2k",
+  "sub": "estação de musculação + tatame num canto de 2 x 2 m",
+  "video": "https://youtube.com/shorts/rfEhUgtetDA",
   "tags": [
    "academia",
    "musculação",
@@ -11,7 +11,9 @@ window.IDEIAS = [
    "exercício",
    "casa",
    "saúde",
-   "estação"
+   "estação",
+   "tatame",
+   "eva"
   ],
   "links": [
    [
