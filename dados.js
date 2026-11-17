@@ -38,8 +38,8 @@ window.IDEIAS = [
   "links": [
    [
     "☕",
-    "Cafeteira de botão (Mondial Dolce Arome, 550 W)",
-    "https://www.mercadolivre.com.br/cafeteira-eletrica-dolce-arome-mondial-550w-c-30-18x/p/MLB23728444"
+    "Cafeteira de botão (Elgin Coffee Break, 15 xícaras)",
+    "https://meli.la/1TpQ94u"
    ],
    [
     "🔌",
