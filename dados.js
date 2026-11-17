@@ -1,5 +1,40 @@
 window.IDEIAS = [
  {
+  "n": 5,
+  "titulo": "Setup gamer gastando pouco",
+  "sub": "suporte com gavetas + mousepad 90 x 40 + fita LED, por menos de R$ 200",
+  "video": "https://youtube.com/shorts/wQTEwy985Fo",
+  "tags": [
+   "setup",
+   "gamer",
+   "pc",
+   "monitor",
+   "led",
+   "mesa",
+   "quarto",
+   "decoração",
+   "organização"
+  ],
+  "links": [
+   [
+    "🖥️",
+    "Suporte de monitor com 2 gavetas (Souza, até 10 kg)",
+    "https://meli.la/1P9xs6H"
+   ],
+   [
+    "🖱️",
+    "Mousepad 90 x 40 cm (Titorion)",
+    "https://meli.la/1ba7Nkj"
+   ],
+   [
+    "🌈",
+    "Fita LED RGB USB 5 m com Bluetooth (Kapbom)",
+    "https://meli.la/1oUmuub"
+   ]
+  ],
+  "img": ""
+ },
+ {
   "n": 4,
   "titulo": "Academia completa em casa",
   "sub": "estação de musculação + tatame num canto de 2 x 2 m",
