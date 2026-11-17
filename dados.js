@@ -23,6 +23,33 @@ window.IDEIAS = [
   "img": "img/ideia04.webp"
  },
  {
+  "n": 3,
+  "titulo": "Café pronto quando você acorda",
+  "sub": "cafeteira de botão + tomada inteligente",
+  "video": "https://youtube.com/shorts/WHQTXpfxTCM",
+  "tags": [
+   "café",
+   "cafeteira",
+   "tomada inteligente",
+   "casa inteligente",
+   "cozinha",
+   "automação"
+  ],
+  "links": [
+   [
+    "☕",
+    "Cafeteira de botão (Mondial Dolce Arome, 550 W)",
+    "https://www.mercadolivre.com.br/cafeteira-eletrica-dolce-arome-mondial-550w-c-30-18x/p/MLB23728444"
+   ],
+   [
+    "🔌",
+    "Tomada inteligente Wi-Fi 10 A",
+    "https://www.mercadolivre.com.br/tomada-hw-inteligente-wifi-novadigital-10a-medidor-consumo-energia-alexa-google-tuya-smart-life-110v-220v-bivolt-branca/p/MLB22695930"
+   ]
+  ],
+  "img": "img/ideia03.webp"
+ },
+ {
   "n": 2,
   "titulo": "Topo de bolo e lembrancinha",
   "sub": "em MDF, cortados a laser",
