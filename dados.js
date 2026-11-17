@@ -43,8 +43,8 @@ window.IDEIAS = [
    ],
    [
     "🔌",
-    "Tomada inteligente Wi-Fi 10 A",
-    "https://www.mercadolivre.com.br/tomada-hw-inteligente-wifi-novadigital-10a-medidor-consumo-energia-alexa-google-tuya-smart-life-110v-220v-bivolt-branca/p/MLB22695930"
+    "Tomada inteligente Wi-Fi (Smart Life, bivolt)",
+    "https://meli.la/1uxXAwa"
    ]
   ],
   "img": "img/ideia03.webp"
