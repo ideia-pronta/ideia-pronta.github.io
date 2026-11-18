@@ -1,5 +1,35 @@
 window.IDEIAS = [
  {
+  "n": 6,
+  "titulo": "TV velha vira Xbox",
+  "sub": "Fire TV Stick 4K + controle Bluetooth, por menos de R$ 400 (Game Pass à parte)",
+  "video": "https://youtube.com/shorts/J93BJFHj7X4",
+  "tags": [
+   "xbox",
+   "game pass",
+   "jogos",
+   "nuvem",
+   "tv",
+   "fire tv stick",
+   "controle",
+   "gamer",
+   "sala"
+  ],
+  "links": [
+   [
+    "📺",
+    "Fire TV Stick 4K Plus, Wi-Fi 6 (roda o app do Xbox)",
+    "https://meli.la/2p6PEDT"
+   ],
+   [
+    "🎮",
+    "Controle Bluetooth para jogos na nuvem (recarregável)",
+    "https://meli.la/1s9KKf1"
+   ]
+  ],
+  "img": "img/ideia06.webp"
+ },
+ {
   "n": 5,
   "titulo": "Setup gamer gastando pouco",
   "sub": "suporte com gavetas + mousepad 90 x 40 + fita LED, por menos de R$ 200",
