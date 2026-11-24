@@ -18,12 +18,12 @@ window.IDEIAS = [
    [
     "🔌",
     "Régua inteligente Wi-Fi, 3 tomadas + 2 USB",
-    "https://www.mercadolivre.com.br/extensoes-inteligente-wifi-tuya-3-tomadas-2usb-1pd-cor-branco/p/MLB42237941"
+    "https://meli.la/1mRK5bk"
    ],
    [
     "💡",
     "Lâmpada inteligente RGB Wi-Fi 10 W (Elgin)",
-    "https://www.mercadolivre.com.br/lampada-led-10w-rgb-inteligente-wifi-smart-color-elgin/p/MLB21619136"
+    "https://meli.la/1du9n6M"
    ]
   ],
   "img": "img/ideia08.webp"
