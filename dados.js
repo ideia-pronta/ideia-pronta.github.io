@@ -1,5 +1,63 @@
 window.IDEIAS = [
  {
+  "n": 8,
+  "titulo": "A casa que desliga sozinha",
+  "sub": "Régua Wi-Fi + lâmpada inteligente, sem fio e sem eletricista",
+  "video": "https://youtube.com/shorts/ko-VZszqvKA",
+  "tags": [
+   "casa inteligente",
+   "wi-fi",
+   "tomada",
+   "régua",
+   "lâmpada",
+   "alexa",
+   "automação",
+   "energia"
+  ],
+  "links": [
+   [
+    "🔌",
+    "Régua inteligente Wi-Fi, 3 tomadas + 2 USB",
+    "https://www.mercadolivre.com.br/extensoes-inteligente-wifi-tuya-3-tomadas-2usb-1pd-cor-branco/p/MLB42237941"
+   ],
+   [
+    "💡",
+    "Lâmpada inteligente RGB Wi-Fi 10 W (Elgin)",
+    "https://www.mercadolivre.com.br/lampada-led-10w-rgb-inteligente-wifi-smart-color-elgin/p/MLB21619136"
+   ]
+  ],
+  "img": "img/ideia08.webp"
+ },
+ {
+  "n": 7,
+  "titulo": "Desenhar no ar",
+  "sub": "Caneta 3D + refil de 20 cores, por menos de R$ 100",
+  "video": "https://youtube.com/shorts/UStgWceHwv8",
+  "tags": [
+   "caneta 3d",
+   "desenho",
+   "criativo",
+   "pla",
+   "presente",
+   "conserto",
+   "artesanato",
+   "diy"
+  ],
+  "links": [
+   [
+    "✏️",
+    "Caneta 3D com refil e cabo USB",
+    "https://meli.la/2bh7H6j"
+   ],
+   [
+    "🎨",
+    "Refil PLA 20 cores, 100 m",
+    "https://meli.la/2VmHW1m"
+   ]
+  ],
+  "img": "img/ideia07.webp"
+ },
+ {
   "n": 6,
   "titulo": "TV velha vira Xbox",
   "sub": "Fire TV Stick 4K + controle Bluetooth, por menos de R$ 400 (Game Pass à parte)",
