@@ -26,3 +26,10 @@ h2 { margin: 10px 0 2px; font-size: 22px; line-height: 1.2; }
 .breve { font-weight: 700; color: var(--te); }
 #vazio { font-weight: 700; padding-bottom: 20px; }
 footer { padding-top: 10px; padding-bottom: 40px; font-size: 13px; opacity: .8; }
+.player { position: relative; width: 100%; max-width: 300px; aspect-ratio: 9 / 16; margin: 4px auto 16px; border: 4px solid var(--ink); border-radius: 16px; box-shadow: 6px 6px 0 var(--ink); overflow: hidden; background: var(--ink); }
+.player iframe, .capa { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.capa { padding: 0; cursor: pointer; background: var(--ink); }
+.card .capa img { float: none; width: 100%; height: 100%; margin: 0; border: 0; border-radius: 0; object-fit: cover; display: block; }
+.play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 76px; height: 76px; display: grid; place-items: center; padding-left: 6px; font-size: 34px; color: var(--cr); background: var(--or); border: 4px solid var(--ink); border-radius: 50%; box-shadow: 4px 4px 0 var(--ink); }
+.capa:active .play { transform: translate(calc(-50% + 3px), calc(-50% + 3px)); box-shadow: 1px 1px 0 var(--ink); }
+.video { font-size: 14px; padding: 9px 12px; }
