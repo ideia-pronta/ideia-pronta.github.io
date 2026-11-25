@@ -1,5 +1,62 @@
 window.IDEIAS = [
  {
+  "n": 10,
+  "titulo": "Notebook vira PC de mesa",
+  "sub": "hub USB-C + suporte de alumínio, com um cabo só",
+  "video": "https://youtube.com/shorts/Vxkn4FO-IW4",
+  "tags": [
+   "setup",
+   "home office",
+   "notebook",
+   "usb-c",
+   "monitor",
+   "computação",
+   "mesa"
+  ],
+  "links": [
+   [
+    "🔌",
+    "Hub USB-C 5 em 1 (HDMI 4K, USB 3.0, carga 90 W)",
+    "https://www.mercadolivre.com.br/hub-usb-c-5-portas-em-1-anker-dock-station-adaptador-hdmi-4k-usb-30-5gbps-power-delivery-90w-compativel-com-thunderbolt-para-macbook-proair-notebooks-windows/p/MLB51066267"
+   ],
+   [
+    "💻",
+    "Suporte de alumínio para notebook",
+    "https://www.mercadolivre.com.br/suporte-para-notebook-mesa-aluminio-regulavel/p/MLB27066091"
+   ]
+  ],
+  "img": "img/ideia10.webp"
+ },
+ {
+  "n": 9,
+  "titulo": "Plantas que se regam sozinhas",
+  "sub": "timer de rega na torneira + kit de gotejamento com 18 bicos",
+  "video": "https://youtube.com/shorts/5jfiKN_r4Bc",
+  "tags": [
+   "plantas",
+   "horta",
+   "jardinagem",
+   "rega",
+   "irrigação",
+   "gotejamento",
+   "varanda",
+   "automação"
+  ],
+  "links": [
+   [
+    "💧",
+    "Timer de rega inteligente (app, Bluetooth)",
+    "https://www.mercadolivre.com.br/intelligent-tuya-app-bt-water-timer-rain-delay-programavel/p/MLB2063626538"
+   ],
+   [
+    "🌱",
+    "Kit de gotejamento, 18 bicos",
+    "https://www.mercadolivre.com.br/kit-irrigacao-gotejamento-completo-vasos-ou-horta-18-bicos/p/MLB73153476"
+   ]
+  ],
+  "img": "img/ideia09.webp"
+ },
+ {
   "n": 8,
   "titulo": "A casa que desliga sozinha",
   "sub": "Régua Wi-Fi + lâmpada inteligente, sem fio e sem eletricista",
