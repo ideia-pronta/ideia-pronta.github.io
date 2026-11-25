@@ -46,12 +46,12 @@ window.IDEIAS = [
    [
     "💧",
     "Timer de rega inteligente (app, Bluetooth)",
-    "https://www.mercadolivre.com.br/intelligent-tuya-app-bt-water-timer-rain-delay-programavel/p/MLB2063626538"
+    "https://meli.la/1R1HeAr"
    ],
    [
     "🌱",
     "Kit de gotejamento, 18 bicos",
-    "https://www.mercadolivre.com.br/kit-irrigacao-gotejamento-completo-vasos-ou-horta-18-bicos/p/MLB73153476"
+    "https://meli.la/2KvasAP"
    ]
   ],
   "img": "img/ideia09.webp"
