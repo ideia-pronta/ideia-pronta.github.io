@@ -17,12 +17,12 @@ window.IDEIAS = [
    [
     "🔌",
     "Hub USB-C 5 em 1 (HDMI 4K, USB 3.0, carga 90 W)",
-    "https://www.mercadolivre.com.br/hub-usb-c-5-portas-em-1-anker-dock-station-adaptador-hdmi-4k-usb-30-5gbps-power-delivery-90w-compativel-com-thunderbolt-para-macbook-proair-notebooks-windows/p/MLB51066267"
+    "https://meli.la/2idoQ9y"
    ],
    [
     "💻",
     "Suporte de alumínio para notebook",
-    "https://www.mercadolivre.com.br/suporte-para-notebook-mesa-aluminio-regulavel/p/MLB27066091"
+    "https://meli.la/1xZDrzL"
    ]
   ],
   "img": "img/ideia10.webp"
