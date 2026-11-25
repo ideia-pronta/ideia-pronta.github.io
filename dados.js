@@ -3,7 +3,7 @@ window.IDEIAS = [
   "n": 10,
   "titulo": "Notebook vira PC de mesa",
   "sub": "hub USB-C + suporte de alumínio, com um cabo só",
-  "video": "https://youtube.com/shorts/6-1mlFcub_I",
+  "video": "https://youtube.com/shorts/7G18-AyeGTQ",
   "tags": [
    "setup",
    "home office",
