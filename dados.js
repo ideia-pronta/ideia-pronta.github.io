@@ -47,7 +47,7 @@ window.IDEIAS = [
    [
     "🚪",
     "Sensor de porta e janela Wi-Fi (Alexa e Google)",
-    "https://www.mercadolivre.com.br/sensor-de-porta-e-janela-wi-fi-compativel-com-alexa-e-google/p/MLB38099643"
+    "https://meli.la/2c13x9A"
    ],
    [
     "🚨",
