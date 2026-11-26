@@ -31,7 +31,7 @@ window.IDEIAS = [
  {
   "n": 11,
   "titulo": "Alarme caseiro no celular",
-  "sub": "sensor de porta Wi-Fi + sirene com bateria, sem fio na parede",
+  "sub": "sensor de porta Wi-Fi: avisa no celular quando a porta abre",
   "video": "https://youtube.com/shorts/WPB0uldQhbE",
   "tags": [
    "alarme",
@@ -48,11 +48,6 @@ window.IDEIAS = [
     "🚪",
     "Sensor de porta e janela Wi-Fi (Alexa e Google)",
     "https://meli.la/2c13x9A"
-   ],
-   [
-    "🚨",
-    "Sirene Wi-Fi com bateria (Tuya)",
-    "https://www.mercadolivre.com.br/sirene-alarme-smart-wifi-seguranca-inteligente-bateria-tuya-branco/p/MLB51929229"
    ]
   ],
   "img": "img/ideia11.webp"
