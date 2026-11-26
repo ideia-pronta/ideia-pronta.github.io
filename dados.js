@@ -1,5 +1,63 @@
 window.IDEIAS = [
  {
+  "n": 12,
+  "titulo": "Microscópio no notebook",
+  "sub": "microscópio digital USB + 12 lâminas preparadas de plantas e bichos",
+  "video": "https://youtube.com/shorts/Oz6nR9CNObc",
+  "tags": [
+   "microscópio",
+   "ciência",
+   "criança",
+   "educação",
+   "usb",
+   "notebook",
+   "eletrônica",
+   "curiosidade"
+  ],
+  "links": [
+   [
+    "🔬",
+    "Microscópio digital USB com câmera",
+    "https://www.mercadolivre.com.br/microscopio-digital-usb-zoom-1600x-camera-20mp-profissional/up/MLBU2223083255"
+   ],
+   [
+    "🧫",
+    "Kit com 12 lâminas preparadas (flora e fauna)",
+    "https://www.mercadolivre.com.br/laminas-preparadas-p-microscopio-flora-fauna-12-laminas/up/MLBU730143005"
+   ]
+  ],
+  "img": "img/ideia12.webp"
+ },
+ {
+  "n": 11,
+  "titulo": "Alarme caseiro no celular",
+  "sub": "sensor de porta Wi-Fi + sirene com bateria, sem fio na parede",
+  "video": "https://youtube.com/shorts/WPB0uldQhbE",
+  "tags": [
+   "alarme",
+   "segurança",
+   "casa inteligente",
+   "wi-fi",
+   "sensor",
+   "sirene",
+   "alexa",
+   "automação"
+  ],
+  "links": [
+   [
+    "🚪",
+    "Sensor de porta e janela Wi-Fi (Alexa e Google)",
+    "https://www.mercadolivre.com.br/sensor-de-porta-e-janela-wi-fi-compativel-com-alexa-e-google/p/MLB38099643"
+   ],
+   [
+    "🚨",
+    "Sirene Wi-Fi com bateria (Tuya)",
+    "https://www.mercadolivre.com.br/sirene-alarme-smart-wifi-seguranca-inteligente-bateria-tuya-branco/p/MLB51929229"
+   ]
+  ],
+  "img": "img/ideia11.webp"
+ },
+ {
   "n": 10,
   "titulo": "Notebook vira PC de mesa",
   "sub": "hub USB-C + suporte de alumínio, com um cabo só",
