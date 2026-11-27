@@ -53,7 +53,7 @@ window.IDEIAS = [
    [
     "🩹",
     "Fita dupla face 3M VHB extra forte",
-    "https://www.mercadolivre.com.br/fita-dupla-face-3m-extra-forte-profissional-vhb4910/up/MLBU3855340718"
+    "https://meli.la/1XoYxr9"
    ]
   ],
   "img": "",
@@ -78,12 +78,12 @@ window.IDEIAS = [
    [
     "🔬",
     "Microscópio digital USB com câmera",
-    "https://www.mercadolivre.com.br/microscopio-digital-usb-zoom-1600x-camera-20mp-profissional/up/MLBU2223083255"
+    "https://meli.la/1pWZ6w5"
    ],
    [
     "🧫",
     "Kit com 12 lâminas preparadas (flora e fauna)",
-    "https://www.mercadolivre.com.br/laminas-preparadas-p-microscopio-flora-fauna-12-laminas/up/MLBU730143005"
+    "https://meli.la/2zyebeJ"
    ]
   ],
   "img": "img/ideia12.webp",
