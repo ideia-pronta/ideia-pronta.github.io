@@ -1,5 +1,63 @@
 window.IDEIAS = [
  {
+  "n": 14,
+  "titulo": "O celular imprime adesivos",
+  "sub": "mini impressora térmica sem tinta + rolos de papel adesivo",
+  "video": "https://youtube.com/shorts/MGvf79zODso",
+  "tags": [
+   "impressora",
+   "adesivo",
+   "etiqueta",
+   "organização",
+   "papelaria",
+   "escola",
+   "estudos",
+   "bluetooth"
+  ],
+  "links": [
+   [
+    "🖨️",
+    "Mini impressora térmica Bluetooth (sem tinta)",
+    "https://www.mercadolivre.com.br/mini-impressora-termica-portatil-bluetooth-usb-com-1-rolo/up/MLBU2965493882"
+   ],
+   [
+    "🏷️",
+    "Kit 10 rolos de papel adesivo 57 mm",
+    "https://produto.mercadolivre.com.br/MLB-4561876546-rolo-adesivo-termico-57-30mm-mini-impressora-gatinho-10un-_JM"
+   ]
+  ],
+  "img": ""
+ },
+ {
+  "n": 13,
+  "titulo": "Parede vira painel de luz",
+  "sub": "hexágonos de LED RGB + fita 3M VHB, sem furar a parede",
+  "video": "https://youtube.com/shorts/GFaxzZqLZBQ",
+  "tags": [
+   "led",
+   "rgb",
+   "setup",
+   "quarto",
+   "decoração",
+   "gamer",
+   "parede",
+   "app"
+  ],
+  "links": [
+   [
+    "💡",
+    "Painel LED hexagonal RGB, 10 peças (app, controle, música)",
+    "https://www.mercadolivre.com.br/painel-led-hexagonal-rgb-10-pecas-luminaria-de-parede-inteligente-com-app-controle-remoto-musica-210-efeitos-brilho-ajustavel-usb-para-quarto-gamer-escritorio-e-estudio-tieesa-branco/p/MLB80558814"
+   ],
+   [
+    "🩹",
+    "Fita dupla face 3M VHB extra forte",
+    "https://www.mercadolivre.com.br/fita-dupla-face-3m-extra-forte-profissional-vhb4910/up/MLBU3855340718"
+   ]
+  ],
+  "img": ""
+ },
+ {
   "n": 12,
   "titulo": "Microscópio no notebook",
   "sub": "microscópio digital USB + 12 lâminas preparadas de plantas e bichos",
@@ -48,6 +106,11 @@ window.IDEIAS = [
     "🚪",
     "Sensor de porta e janela Wi-Fi (Alexa e Google)",
     "https://meli.la/2c13x9A"
+   ],
+   [
+    "🚨",
+    "Sirene Wi-Fi com bateria (Tuya)",
+    "https://www.mercadolivre.com.br/sirene-alarme-smart-wifi-seguranca-inteligente-bateria-tuya-branco/p/MLB51929229"
    ]
   ],
   "img": "img/ideia11.webp"
