@@ -2,7 +2,7 @@ window.IDEIAS = [
  {
   "n": 14,
   "titulo": "O celular imprime adesivos",
-  "sub": "mini impressora térmica sem tinta + rolos de papel adesivo",
+  "sub": "mini impressora térmica sem tinta, já com 10 rolos de adesivo",
   "video": "https://youtube.com/shorts/MGvf79zODso",
   "tags": [
    "impressora",
@@ -17,13 +17,13 @@ window.IDEIAS = [
   "links": [
    [
     "🖨️",
-    "Mini impressora térmica Bluetooth (sem tinta)",
-    "https://www.mercadolivre.com.br/mini-impressora-termica-portatil-bluetooth-usb-com-1-rolo/up/MLBU2965493882"
+    "Mini impressora sem fio + 10 rolos de adesivo",
+    "https://meli.la/2yRiMDn"
    ],
    [
-    "🏷️",
-    "Kit 10 rolos de papel adesivo 57 mm",
-    "https://produto.mercadolivre.com.br/MLB-4561876546-rolo-adesivo-termico-57-30mm-mini-impressora-gatinho-10un-_JM"
+    "🐱",
+    "Outra opção: impressora Gatinho + 10 rolos",
+    "https://meli.la/2LFipcv"
    ]
   ],
   "img": "",
@@ -46,9 +46,14 @@ window.IDEIAS = [
   ],
   "links": [
    [
-    "💡",
-    "Painel LED hexagonal RGB, 10 peças (app, controle, música)",
-    "https://www.mercadolivre.com.br/painel-led-hexagonal-rgb-10-pecas-luminaria-de-parede-inteligente-com-app-controle-remoto-musica-210-efeitos-brilho-ajustavel-usb-para-quarto-gamer-escritorio-e-estudio-tieesa-branco/p/MLB80558814"
+    "🔷",
+    "Luminária hexagonal RGB Bluetooth, kit com 3 peças",
+    "https://meli.la/1CTbRH3"
+   ],
+   [
+    "🔶",
+    "Outra opção: kit com 6 painéis hexagonais RGB",
+    "https://meli.la/26mwpUH"
    ],
    [
     "🩹",
