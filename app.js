@@ -59,8 +59,35 @@
     return c;
   });
 
+  // "Mais vistos": as 3 ideias com mais views no YouTube; tocar leva ao card completo
+  function fmtViews(v) { return v >= 1000 ? (v / 1000).toFixed(1).replace('.', ',').replace(',0', '') + ' mil views' : v + ' views'; }
+  var top = IDEIAS.map(function (i, k) { return { i: i, c: cards[k] }; })
+    .filter(function (x) { return x.i.views > 0; })
+    .sort(function (a, b) { return b.i.views - a.i.views; }).slice(0, 3);
+  var secTop = null;
+  if (top.length >= 2) {
+    secTop = el('section', 'top'); secTop.setAttribute('aria-label', 'Mais vistos');
+    secTop.appendChild(el('h2', 'top-tit', '🔥 Mais vistos'));
+    var row = el('div', 'top-row');
+    top.forEach(function (x, k) {
+      x.c.id = 'ideia-' + x.i.n;
+      var b = el('button', 'top-card'); b.type = 'button';
+      var fig = el('span', 'top-img');
+      if (x.i.img) { var im = el('img'); im.src = x.i.img; im.alt = ''; im.loading = 'lazy'; fig.appendChild(im); }
+      fig.appendChild(el('span', 'top-rank', String(k + 1)));
+      b.appendChild(fig);
+      b.appendChild(el('span', 'top-nome', x.i.titulo));
+      b.appendChild(el('span', 'top-views', fmtViews(x.i.views)));
+      b.addEventListener('click', function () { q.value = ''; filtrar(); x.c.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+      row.appendChild(b);
+    });
+    secTop.appendChild(row);
+    lista.parentNode.insertBefore(secTop, lista);
+  }
+
   function filtrar() {
     var termos = norm(q.value).trim().split(/\s+/).filter(Boolean), n = 0;
+    if (secTop) secTop.hidden = termos.length > 0;
     cards.forEach(function (c) {
       var ok = termos.every(function (t) { return c._busca.indexOf(t) !== -1; });
       c.hidden = !ok; if (ok) n++;

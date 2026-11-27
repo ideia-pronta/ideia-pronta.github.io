@@ -26,7 +26,8 @@ window.IDEIAS = [
     "https://produto.mercadolivre.com.br/MLB-4561876546-rolo-adesivo-termico-57-30mm-mini-impressora-gatinho-10un-_JM"
    ]
   ],
-  "img": ""
+  "img": "",
+  "views": 394
  },
  {
   "n": 13,
@@ -55,7 +56,8 @@ window.IDEIAS = [
     "https://www.mercadolivre.com.br/fita-dupla-face-3m-extra-forte-profissional-vhb4910/up/MLBU3855340718"
    ]
   ],
-  "img": ""
+  "img": "",
+  "views": 40
  },
  {
   "n": 12,
@@ -84,7 +86,8 @@ window.IDEIAS = [
     "https://www.mercadolivre.com.br/laminas-preparadas-p-microscopio-flora-fauna-12-laminas/up/MLBU730143005"
    ]
   ],
-  "img": "img/ideia12.webp"
+  "img": "img/ideia12.webp",
+  "views": 644
  },
  {
   "n": 11,
@@ -106,14 +109,10 @@ window.IDEIAS = [
     "🚪",
     "Sensor de porta e janela Wi-Fi (Alexa e Google)",
     "https://meli.la/2c13x9A"
-   ],
-   [
-    "🚨",
-    "Sirene Wi-Fi com bateria (Tuya)",
-    "https://www.mercadolivre.com.br/sirene-alarme-smart-wifi-seguranca-inteligente-bateria-tuya-branco/p/MLB51929229"
    ]
   ],
-  "img": "img/ideia11.webp"
+  "img": "img/ideia11.webp",
+  "views": 243
  },
  {
   "n": 10,
@@ -141,7 +140,8 @@ window.IDEIAS = [
     "https://meli.la/1xZDrzL"
    ]
   ],
-  "img": "img/ideia10.webp"
+  "img": "img/ideia10.webp",
+  "views": 111
  },
  {
   "n": 9,
@@ -170,7 +170,8 @@ window.IDEIAS = [
     "https://meli.la/2KvasAP"
    ]
   ],
-  "img": "img/ideia09.webp"
+  "img": "img/ideia09.webp",
+  "views": 809
  },
  {
   "n": 8,
@@ -199,7 +200,8 @@ window.IDEIAS = [
     "https://meli.la/1du9n6M"
    ]
   ],
-  "img": "img/ideia08.webp"
+  "img": "img/ideia08.webp",
+  "views": 241
  },
  {
   "n": 7,
@@ -228,7 +230,8 @@ window.IDEIAS = [
     "https://meli.la/2VmHW1m"
    ]
   ],
-  "img": "img/ideia07.webp"
+  "img": "img/ideia07.webp",
+  "views": 1356
  },
  {
   "n": 6,
@@ -258,7 +261,8 @@ window.IDEIAS = [
     "https://meli.la/1s9KKf1"
    ]
   ],
-  "img": "img/ideia06.webp"
+  "img": "img/ideia06.webp",
+  "views": 43
  },
  {
   "n": 5,
@@ -293,7 +297,8 @@ window.IDEIAS = [
     "https://meli.la/1oUmuub"
    ]
   ],
-  "img": ""
+  "img": "",
+  "views": 99
  },
  {
   "n": 4,
@@ -323,7 +328,8 @@ window.IDEIAS = [
     "https://meli.la/31bsJnx"
    ]
   ],
-  "img": "img/ideia04.webp"
+  "img": "img/ideia04.webp",
+  "views": 35
  },
  {
   "n": 3,
@@ -350,7 +356,8 @@ window.IDEIAS = [
     "https://meli.la/1uxXAwa"
    ]
   ],
-  "img": "img/ideia03.webp"
+  "img": "img/ideia03.webp",
+  "views": 20
  },
  {
   "n": 2,
@@ -373,7 +380,8 @@ window.IDEIAS = [
     "https://meli.la/1rQU5QB"
    ]
   ],
-  "img": "img/ideia02.webp"
+  "img": "img/ideia02.webp",
+  "views": 15
  },
  {
   "n": 1,
@@ -421,6 +429,7 @@ window.IDEIAS = [
     "https://meli.la/12SqEyy"
    ]
   ],
-  "img": "img/ideia01.webp"
+  "img": "img/ideia01.webp",
+  "views": 16
  }
 ];
