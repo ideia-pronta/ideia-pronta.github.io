@@ -368,7 +368,7 @@ window.IDEIAS = [
   "n": 2,
   "titulo": "Topo de bolo e lembrancinha",
   "sub": "em MDF, cortados a laser",
-  "video": "https://youtube.com/shorts/CAD6V3bE4Wk",
+  "video": "https://youtube.com/shorts/5XbSayRJKpA",
   "tags": [
    "laser",
    "mdf",
@@ -386,13 +386,13 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia02.webp",
-  "views": 15
+  "views": 0
  },
  {
   "n": 1,
   "titulo": "Horta dentro do armário",
   "sub": "sem depender do sol",
-  "video": "https://youtube.com/shorts/7KkL86w0e6M",
+  "video": "https://youtube.com/shorts/aB08_pJyI8s",
   "tags": [
    "horta",
    "plantas",
@@ -415,13 +415,8 @@ window.IDEIAS = [
    ],
    [
     "💡",
-    "LED para plantas, branca",
-    "https://meli.la/1fzybA7"
-   ],
-   [
-    "💡",
     "LED para plantas, vermelha e azul",
-    "https://meli.la/2otWN3h"
+    "https://meli.la/1fzybA7"
    ],
    [
     "🔩",
@@ -435,6 +430,6 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia01.webp",
-  "views": 16
+  "views": 0
  }
 ];
