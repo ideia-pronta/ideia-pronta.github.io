@@ -27,7 +27,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "",
-  "views": 394
+  "views": 911
  },
  {
   "n": 13,
@@ -62,7 +62,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "",
-  "views": 40
+  "views": 96
  },
  {
   "n": 12,
@@ -92,7 +92,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia12.webp",
-  "views": 644
+  "views": 741
  },
  {
   "n": 11,
@@ -117,7 +117,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia11.webp",
-  "views": 243
+  "views": 300
  },
  {
   "n": 10,
@@ -146,7 +146,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia10.webp",
-  "views": 111
+  "views": 119
  },
  {
   "n": 9,
@@ -176,7 +176,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia09.webp",
-  "views": 809
+  "views": 810
  },
  {
   "n": 8,
@@ -236,7 +236,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia07.webp",
-  "views": 1356
+  "views": 1395
  },
  {
   "n": 6,
@@ -267,7 +267,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia06.webp",
-  "views": 43
+  "views": 45
  },
  {
   "n": 5,
@@ -309,7 +309,7 @@ window.IDEIAS = [
   "n": 4,
   "titulo": "Academia completa em casa",
   "sub": "estação de musculação + tatame num canto de 2 x 2 m",
-  "video": "https://youtube.com/shorts/ccNIYQK-ev4",
+  "video": "https://youtube.com/shorts/GRyHH34sW7Q",
   "tags": [
    "academia",
    "musculação",
@@ -334,13 +334,13 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia04.webp",
-  "views": 35
+  "views": 0
  },
  {
   "n": 3,
   "titulo": "Café pronto quando você acorda",
   "sub": "cafeteira de botão + tomada inteligente",
-  "video": "https://youtube.com/shorts/WHQTXpfxTCM",
+  "video": "https://youtube.com/shorts/BCZQW5iuHmk",
   "tags": [
    "café",
    "cafeteira",
@@ -362,7 +362,7 @@ window.IDEIAS = [
    ]
   ],
   "img": "img/ideia03.webp",
-  "views": 20
+  "views": 0
  },
  {
   "n": 2,
